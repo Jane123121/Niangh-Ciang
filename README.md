@@ -1,2 +1,2 @@
 # Niangh-Ciang
-My first webpage created for the CYF course.
+My first webpage created for the CYF course. This is a personal webpage about my hobby of watching movies. The page highlights my top three favorite films: The Pursuit of Happyness, One Day (Thailand), and Ready or Not. Each movie includes an image and a detailed description explaining why I enjoy it, what I learned from it, and its key themes. The webpage also features a collection of movie posters and a short paragraph about my general movie-watching habits. The design is simple, responsive, and visually centered, making it easy to read on different devices.
